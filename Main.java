@@ -3,7 +3,9 @@ import java.util.Scanner;
 
 public class Main {
     static Integer counter = 1;
-    static String winner = "Hafiz";
+    static String student = "Md Hafizul Islam";
+    static String idNumber = "20183290325";
+
     public static void main(String[] args) {
         while (counter <= 5) {
 
